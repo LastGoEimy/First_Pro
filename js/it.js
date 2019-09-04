@@ -56,6 +56,6 @@
             }
 
          }
-    var tou = Array("images/tou01.jpg","images/tou02.jpg","images/tou03.jpg","images/tou04.jpg");
+    var tou = Array("tou01.jpg","tou02.jpg","tou03.jpg","tou04.jpg");
 
 
